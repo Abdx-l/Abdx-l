@@ -1,15 +1,17 @@
 ## Hi there 👋
 
-I'm a Computer Engineering student at Toronto Metropolitan University with a passion for technology and innovation. My expertise spans web development, automation, and software engineering, with proficiency in multiple programming languages.
+I’m a Computer Engineering student at Toronto Metropolitan University and co-founder of Motivez, a cross-platform app built with TypeScript and backed by SQL databases. While I’ve gained experience across many technologies, my strongest expertise lies in Java and C/C++ programming, where I’ve built everything from desktop applications and data structures/algorithms implementations to networking and systems projects.
 
-🌐 My journey began with building visually engaging and responsive web interfaces using HTML and CSS. Over time, I expanded my skill set to include Python, where I've created everything from automation scripts to robust data analysis tools.
+💻 My foundation in Java and C/C++ gives me the ability to tackle complex, performance-critical problems with clean, reliable code. At the same time, I leverage Python and SQL for automation, data analysis, and database management, and I apply web technologies (HTML, CSS, JavaScript, TypeScript) when building user-facing interfaces.
 
-💻 My experience with C and C++ has sharpened my ability to tackle complex algorithms and technical challenges, while my SQL knowledge equips me with the skills needed to design and query efficient databases.
+🌐 Beyond coursework, I’m part of the web development team at Ibtikar, where I helped create and now maintain the organization’s website.
 
-🔒 Cybersecurity is a key area of interest for me, with a focus on network security, data protection, and application security. I'm committed to contributing innovative solutions that safeguard digital infrastructures.
+☁️ I hold cloud certifications from AWS and Microsoft:
 
-🤖 I'm also fascinated by artificial intelligence, particularly in AI software development and machine learning. I'm eager to explore AI's transformative potential and contribute to cutting-edge advancements in this field.
+AWS Certified Cloud Practitioner
 
-📚 I thrive on continuous learning and collaboration, actively engaging in online coding communities and tackling challenges that push my boundaries. My projects include an Email Client Software in Java, Python automation tools, and a Volunteer Opportunities Search website.
+Microsoft Certified: Azure Fundamentals (AZ-900)
 
-🚀 I'm seeking opportunities to leverage my diverse skill set, passion for cybersecurity, and interest in AI to drive innovation and make meaningful contributions in a dynamic and forward-thinking environment.
+🔒 I also have a strong interest in cybersecurity (network security, application security, data protection) and a curiosity for artificial intelligence and machine learning, which push me to explore new areas of software engineering continuously.
+
+🚀 My goal is to leverage my strengths in Java, C/C++ development, and systems design, along with my knowledge of cloud, web, and security, to create impactful software solutions and contribute to innovative, forward-thinking teams.
